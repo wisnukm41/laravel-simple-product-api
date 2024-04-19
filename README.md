@@ -6,7 +6,8 @@ Made with PHP 8.2, MySQL / Sqlite Database, Laravel 11
 2. run `composer install`
 3. run `php artisan key:generate`
 4. run `php artisan migrate`
-5. run `php artisan db:seed` (optional)
-6. run `php artisan serve`
+5. run `php artisan storage:link`
+6. run `php artisan db:seed` (optional)
+7. run `php artisan serve`
 
 Enjoy
